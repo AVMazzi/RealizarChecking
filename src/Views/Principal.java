@@ -10,7 +10,7 @@ public class Principal{
         MontaTelas cle = new MontaTelas();
 
         cle.setVisible(true);
-        cle.pack();
+        //cle.pack();
         cle.setLocationRelativeTo(null);
         cle.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
